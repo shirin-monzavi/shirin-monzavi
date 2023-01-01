@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shirin72
+- 👋 Hi, I’m shirin.
 - 👀 I’m interested in learning new technologies and playing tennis.
-- 🌱 I’m currently learning microservice.
+- 🌱 I’m currently learning DDD.
 - 📫 How to reach me email. Shirin.monzavi.1372@gmail.com
 
 <!---
